@@ -47,6 +47,3 @@ Insert the name for the new '.tar' file: system_backup
 After execution, your destination directory (`/home/user/archived_logs`) will contain:
 * `system_backup_2026-11-18--16-30-00.tar.gz` — The compressed archive containing all `.log` files.
 * `date_and_time_archive.txt` — A text file logging the timestamp of the operation.
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
