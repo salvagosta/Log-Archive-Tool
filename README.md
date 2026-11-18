@@ -33,12 +33,12 @@ This project is a solution to the [Log Archive Tool](https://roadmap.sh/projects
 Run the script from the terminal by passing the path to the directory containing your `.log` files as an argument:
 
 ```bash
-./log-archive.sh /path/to/logs
+./log-archive-tool.sh /path/to/logs
 ```
 
 ### Example
 ```bash
-\$ ./log-archive.sh /var/log
+\$ ./log-archive-tool.sh /var/log
 Insert New Directory for the '.tar' file: /home/user/archived_logs
 Insert the name for the new '.tar' file: system_backup
 ```
