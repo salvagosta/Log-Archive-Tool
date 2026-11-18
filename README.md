@@ -18,7 +18,7 @@ This project is a solution to the [Log Archive Tool](https://roadmap.sh/projects
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone [https://github.com](https://github.com/salvagosta/Log-Archive-Tool.git)
+   git clone https://github.com/salvagosta/Log-Archive-Tool.git
    ```
 2. Navigate to the project directory:
    ```bash
