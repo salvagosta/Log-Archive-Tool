@@ -2,7 +2,7 @@
 
 A simple Bash command-line tool that compresses `.log` files from a specified directory into a timestamped `.tar.gz` archive and stores it in a custom destination folder.
 
-This project is a solution to the [[Log Archive Tool](https://roadmap.sh/projects/log-archive-tool) challenge from **roadmap.sh**.
+This project is a solution to the [Log Archive Tool](https://roadmap.sh/projects/log-archive-tool) challenge from **roadmap.sh**.
 
 ## Features
 * **CLI Argument Support:** Accepts the target log directory directly as a command-line argument.
