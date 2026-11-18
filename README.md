@@ -1,4 +1,5 @@
 # Log-Archive-Tool
+https://github.com/salvagosta/Log-Archive-Tool.git
 
 A simple Bash command-line tool that compresses `.log` files from a specified directory into a timestamped `.tar.gz` archive and stores it in a custom destination folder.
 
